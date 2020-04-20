@@ -1,0 +1,34 @@
+.main-margin {
+  margin: 10px;
+  width: 60%;
+}
+
+.input-field {
+  padding: 3px;
+  border-radius: 4px;
+  width: 100px;
+}
+
+.btn-main-style {
+  padding: 3px;
+  border-radius: 4px;
+  background: #fff;
+  min-width: 40px;
+}
+
+.margin-10 {
+  margin: 10px;
+}
+
+.center-div {
+  margin: 0 auto;
+  background: red;
+  margin-bottom: 5px !important;
+}
+
+.danger {
+  color: red;
+  font-size: 12px;
+  font-style: italic;
+  font-weight: 300;
+}
